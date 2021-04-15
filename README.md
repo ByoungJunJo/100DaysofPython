@@ -16,7 +16,7 @@ I changed my then major (economics) to computer science. But it didn't go well.
 
 I learned C++ in college. I hated the language itself and the way class was taught. Some old professor who learned programming in the 70's or 80's taught my first class.
 
-So I turned off my brain during that class and tired to look for practical online courses. 
+So I turned off my brain during that class and took some practical online courses. 
 
 First, I got into Colt Steele's web bootcamp course on Udemy. So far, that is still the only online course I finished it 90%+. 
 
